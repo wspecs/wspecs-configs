@@ -3,7 +3,7 @@
   "git": "https://github.com/wspecs/sermon-audio.git",
   "docker": "wspecs/sfo-test-4",
   "domain": "sfo-test-4.wendly.com",
-  "port": 8020,
+  "port": 8040,
   "buckets": [
     "sfo-app-staging",
     "sfo-app-prod"
