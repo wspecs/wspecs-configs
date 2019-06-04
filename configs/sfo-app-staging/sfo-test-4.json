@@ -1,0 +1,13 @@
+{
+  "name": "sfo-test-4",
+  "git": "https://github.com/wspecs/sermon-audio.git",
+  "docker": "wspecs/sfo-test-4",
+  "domain": "sfo-test-4.wendly.com",
+  "port": 8020,
+  "buckets": [
+    "sfo-app-staging",
+    "sfo-app-prod"
+  ],
+  "staging_branch": "master",
+  "prod_branch": "master"
+}
