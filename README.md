@@ -3,49 +3,11 @@
 
 Utility to generate Typescript nodejs modules.
 
-![npm](https://img.shields.io/npm/v/tsm-starter.svg) ![license](https://img.shields.io/npm/l/tsm-starter.svg) ![github-issues](https://img.shields.io/github/issues/wspecs/tsm-starter.svg)
-
-![nodei.co](https://nodei.co/npm/tsm-starter.png?downloads=true&downloadRank=true&stars=true)
-
-![travis-status](https://img.shields.io/travis/wspecs/tsm-starter.svg)
-![stars](https://img.shields.io/github/stars/wspecs/tsm-starter.svg)
-![forks](https://img.shields.io/github/forks/wspecs/tsm-starter.svg)
-
-![forks](https://img.shields.io/github/forks/wspecs/tsm-starter.svg)
-
-![](https://david-dm.org/wspecs/tsm-starter/status.svg)
-![](https://david-dm.org/wspecs/tsm-starter/dev-status.svg)
-
 ## Features
 
 - Utility to generate Typescript nodejs modules.
 
 ## Usage
-
-```bash
-tsm-starter
-> ✔ Name of the package … name-of-the-package
-> ✔ Description of the package … Descriptionm for the package
-> ✔ License type … MIT
-> ✔ What's your name? … Author's Name
-> ✔ What's your email? … Author's Email
-> ✔ What's your website url? … Author's Url
-> ✔ What's your GitHub repo? … Author's GitHub Repo
-```
-
-## Install
-
-`npm install --save tsm-starter`
-
-Or as binary
-
-``npm install --g tsm-starter`
-
-## Scripts
-
- - **npm run build** : `rm -rf dist && tsc && npm run readme`
- - **npm run readme** : `node ./node_modules/.bin/node-readme`
- - **npm run test** : `mocha ./dist/test/*.js`
 
 ## Dependencies
 
