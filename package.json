@@ -39,7 +39,7 @@
     "commander": "^2.19.0",
     "dot-object": "^1.7.1",
     "great-logs": "0.0.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "prompts": "^2.0.1",
     "shelljs": "^0.8.3",
     "yamljs": "^0.3.0"
